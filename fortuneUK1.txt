@@ -1,0 +1,472 @@
+#EXTINF:-1 tvg-id="" tvg-name="??? WORLD-WIDE-PPV???" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",??? WORLD-WIDE-PPV???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267541
+#EXTINF:-1 tvg-id="" tvg-name="PPV| GLORY KICKBOXING HD" tvg-logo="https://lo1.in/ppvs/glorykb.png" group-title="VIP | PPV-SPORT EVENTS",PPV| GLORY KICKBOXING HD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400370195
+#EXTINF:-1 tvg-id="" tvg-name="PPV| GLORY KICKBOXING FHD" tvg-logo="https://lo1.in/ppvs/glorykb.png" group-title="VIP | PPV-SPORT EVENTS",PPV| GLORY KICKBOXING FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400370192
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UFC 24/7" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UFC 24/7
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/386092
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 01 - 12:30/3PM UFC Fight Night Gane v Spivac " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 01 - 12:30/3PM UFC Fight Night Gane v Spivac 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267331
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 02 - 7PM WWE Payback " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 02 - 7PM WWE Payback 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267332
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 03 - 7PM Cage Fury FC 124 " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 03 - 7PM Cage Fury FC 124 
+http://vxnshca.mpowerr.xyz:80/4939823153//267334
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 04 - 7PM Zayas v Pabon " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 04 - 7PM Zayas v Pabon 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267335
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 05 - 9PM LFA 166 " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 05 - 9PM LFA 166 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267336
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 06 - 10PM Urijah Fabers A1 Combat 14 " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 06 - 10PM Urijah Fabers A1 Combat 14 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267338
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 07 -3PM Off Road Championship Crandon " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 07 -3PM Off Road Championship Crandon 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267339
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 08 - 5PM Super Nationals Night 1 " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 08 - 5PM Super Nationals Night 1 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267340
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 09 - 5PM NASCAR Weekly Racing Riverhead " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 09 - 5PM NASCAR Weekly Racing Riverhead 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267341
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 10 - 5PM SpeedWeekend 250 Speedway 660 " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 10 - 5PM SpeedWeekend 250 Speedway 660 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267342
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 11 - 5:45PM Super DIRTcar Series " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 11 - 5:45PM Super DIRTcar Series 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267343
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 12 - 6PM Xtreme Outlaw Series " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 12 - 6PM Xtreme Outlaw Series 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267344
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 13 - 6PM Volusia Sprint Cars " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 13 - 6PM Volusia Sprint Cars 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267345
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 14 - 5:30PM Butch Renninger Memorial Port Royal " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 14 - 5:30PM Butch Renninger Memorial Port Royal 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267346
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 15 - 6PM Land of Legends Late Model " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 15 - 6PM Land of Legends Late Model 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267347
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 16 - 6PM Tezos ASCoC Attica Ambush " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 16 - 6PM Tezos ASCoC Attica Ambush 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267348
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 17 - 6PM IRA Sprints Plymouth " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 17 - 6PM IRA Sprints Plymouth 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267349
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 18 - 7PM Bobby Isaac Memorial Hickory " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 18 - 7PM Bobby Isaac Memorial Hickory 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267350
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 19 - 7PM Ultimate Supers Red Hill " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 19 - 7PM Ultimate Supers Red Hill 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267351
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 20 - 7PM Dirt Classic Lincoln " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 20 - 7PM Dirt Classic Lincoln 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267352
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 21 - 8PM ASCS National Tour " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 21 - 8PM ASCS National Tour 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/267353
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 22 - 8PM Funny Car Chaos Mo Kan " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 22 - 8PM Funny Car Chaos Mo Kan 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/379629
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 23 - 8PM COMP Cams Late Models Jackson " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 23 - 8PM COMP Cams Late Models Jackson 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/379630
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 24 - 9:15PM World of Outlaws Sprint Cars " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 24 - 9:15PM World of Outlaws Sprint Cars 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/379631
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 25 - 10PM Carolina Clash Super Late Model Series" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 25 - 10PM Carolina Clash Super Late Model Series
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/379632
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 26 - 10 Days live from Tomorrowland Mainstage" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 26 - 10 Days live from Tomorrowland Mainstage
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/379633
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENT 27 - 10 Days live from Tomorrowland Freedom" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENT 27 - 10 Days live from Tomorrowland Freedom
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230524
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 28 : Joshua Vs Franklin 19:00 UK " tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 28 : Joshua Vs Franklin 19:00 UK 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230525
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 29 : Joshua Vs Franklin 19:00 UK" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 29 : Joshua Vs Franklin 19:00 UK
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230526
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 30 : Joshua Vs Franklin 19:00 UK" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 30 : Joshua Vs Franklin 19:00 UK
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230527
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 31 :" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 31 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230528
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 32 :" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 32 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230529
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 33 :" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 33 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400230530
+#EXTINF:-1 tvg-id="" tvg-name="PPV| LIVE EVENTS 34:" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="VIP | PPV-SPORT EVENTS",PPV| LIVE EVENTS 34:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/114000
+#EXTINF:-1 tvg-id="" tvg-name="??? PPV| UEFA ???" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",??? PPV| UEFA ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400453429
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 01 : BK Häcken v Aberdeen 18.00 Thursday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 01 : BK Häcken v Aberdeen 18.00 Thursday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9340
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 02 : Hearts v PAOK Thessaloniki 19.45 Thursday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 02 : Hearts v PAOK Thessaloniki 19.45 Thursday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9341
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 03 : Raków Czestochowa v FC Copenhagen 20.00 Tuesday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 03 : Raków Czestochowa v FC Copenhagen 20.00 Tuesday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9342
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 04 : Hibernian v Aston Villa 17.45 Wednesday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 04 : Hibernian v Aston Villa 17.45 Wednesday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9343
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 05 : Maccabi Haifa v Young Boys 20.00 Wednesday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 05 : Maccabi Haifa v Young Boys 20.00 Wednesday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9344
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 06 : Sporting Braga v Panathinaikos 20.00 Wednesday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 06 : Sporting Braga v Panathinaikos 20.00 Wednesday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9345
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 07 : Molde v Galatasaray 20.00 Wednesday" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 07 : Molde v Galatasaray 20.00 Wednesday
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9346
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 08 : Faroe Islands v Albania 19:45" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 08 : Faroe Islands v Albania 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9347
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 09 : Norway v Cyprus 19:45" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 09 : Norway v Cyprus 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9348
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 10 : Estonia v Belgium 19:45" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 10 : Estonia v Belgium 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9349
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 11 : Hungary v Lithuania 19:45" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 11 : Hungary v Lithuania 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9350
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 12 : Slovenia vs denmark // UK Mon 19 Jun 7:45pm // ET Mon 19 Jun 2:45pm" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 12 : Slovenia vs denmark // UK Mon 19 Jun 7:45pm // ET Mon 19 Jun 2:45pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9351
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 13 : Villarreal v Anderlecht 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 13 : Villarreal v Anderlecht 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9352
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 14 : AZ Alkmaar v Lazio 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 14 : AZ Alkmaar v Lazio 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9353
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 15 : Nice v Sheriff Tiraspol 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 15 : Nice v Sheriff Tiraspol 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9354
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 16 : Fiorentina v Sivasspor THURSDAY 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 16 : Fiorentina v Sivasspor THURSDAY 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9355
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 17 : Basel v Slovan Bratislava Thursday 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 17 : Basel v Slovan Bratislava Thursday 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9356
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 18 : Lech Poznan v Djurgården Thursday 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 18 : Lech Poznan v Djurgården Thursday 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9357
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 19 : Lech Poznan v Bodø/Glimt Thursday 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 19 : Lech Poznan v Bodø/Glimt Thursday 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9358
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 20 : Basel v Trabzonspor Thursday 20:00" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 20 : Basel v Trabzonspor Thursday 20:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9359
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 21 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 21 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9360
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 22 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 22 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9361
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 23 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 23 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9362
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 24 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 24 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9363
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 25 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 25 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9364
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 26 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 26 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9365
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 27 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 27 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9366
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 28 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 28 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9367
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 29 :" tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 29 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9368
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 30 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 30 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9369
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 31 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 31 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9370
+#EXTINF:-1 tvg-id="" tvg-name="PPV| UEFA 32 : " tvg-logo="https://lo1.in/uk/uefa.png" group-title="VIP | PPV-SPORT EVENTS",PPV| UEFA 32 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9371
+#EXTINF:-1 tvg-id="" tvg-name="???FA Women's Super League???" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",???FA Women's Super League???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2435
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 01 : Blackburn Rovers vs Birmingham City // UK Sat 26 Aug 5:30pm // ET Sat 26 Aug 12:30pm" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 01 : Blackburn Rovers vs Birmingham City // UK Sat 26 Aug 5:30pm // ET Sat 26 Aug 12:30pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2434
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 02 : Watford vs Durham // UK Sun 27 Aug 12:00pm // ET Sun 27 Aug 7:00am" tvg-logo="https://lo1.in/ppvs/fw.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 02 : Watford vs Durham // UK Sun 27 Aug 12:00pm // ET Sun 27 Aug 7:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400378706
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 03 : Charlton Athletic vs Sheffield United // UK Sun 27 Aug 3:00pm // ET Sun 27 Aug 10:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 03 : Charlton Athletic vs Sheffield United // UK Sun 27 Aug 3:00pm // ET Sun 27 Aug 10:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2415
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 04 : Sunderland vs London City Lionesses // UK Sun 27 Aug 1:00pm // ET Sun 27 Aug 8:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 04 : Sunderland vs London City Lionesses // UK Sun 27 Aug 1:00pm // ET Sun 27 Aug 8:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2416
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 05 : Lewes vs Southampton // UK Sun 27 Aug 4:00pm // ET Sun 27 Aug 11:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 05 : Lewes vs Southampton // UK Sun 27 Aug 4:00pm // ET Sun 27 Aug 11:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2417
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 06 : Crystal Palace vs Reading // UK Sun 27 Aug 2:00pm // ET Sun 27 Aug 9:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 06 : Crystal Palace vs Reading // UK Sun 27 Aug 2:00pm // ET Sun 27 Aug 9:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2418
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 07 : Everton vs Tottenham Hotspur // UK Sun 2 Apr 1:00pm // ET Sun 2 Apr 8:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 07 : Everton vs Tottenham Hotspur // UK Sun 2 Apr 1:00pm // ET Sun 2 Apr 8:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2419
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 08 : Southampton vs Bristol City // UK Sun 26 Mar 1:00pm // ET Sun 26 Mar 8:00am" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 08 : Southampton vs Bristol City // UK Sun 26 Mar 1:00pm // ET Sun 26 Mar 8:00am
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2420
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 09 : Reading v Liverpool Thu 24th 7:00PM" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 09 : Reading v Liverpool Thu 24th 7:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2421
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 10 : Aston Villa v Durham Sat 26th 12:30PM" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 10 : Aston Villa v Durham Sat 26th 12:30PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2422
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 11 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 11 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2423
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 12 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 12 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2424
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 13 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 13 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2425
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 14 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 14 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2426
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 15 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 15 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2427
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 16 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 16 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2428
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 17 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 17 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2429
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 18 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 18 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2430
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 19 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 19 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2431
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 20 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 20 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2432
+#EXTINF:-1 tvg-id="" tvg-name="PPV| FA PLAYER 21 :" tvg-logo="https://lo1.in/ppvs/fawmnsprlg.png" group-title="VIP | PPV-SPORT EVENTS",PPV| FA PLAYER 21 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2433
+#EXTINF:-1 tvg-id="" tvg-name="???New-Zeland Sport-EVENTS???" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",???New-Zeland Sport-EVENTS???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2376
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 1" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 1
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2375
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 2" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 2
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2374
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 3" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 3
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2373
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 4" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 4
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2372
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 5" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 5
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2371
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 6" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 6
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2370
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 7" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 7
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2369
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 8" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 8
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2368
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NEW-ZELAND SKY SPORT 9" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NEW-ZELAND SKY SPORT 9
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2367
+#EXTINF:-1 tvg-id="" tvg-name="???MATCHROOM-EVENTS???" tvg-logo="https://lo1.in/ppvs/nzsp.png" group-title="VIP | PPV-SPORT EVENTS",???MATCHROOM-EVENTS???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2443
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 00 : European Open Pool Championships - Day 1 (Table 2) | Hotel Esperanto, Fulda, Germany | pool | Tue 08 Aug 8:00:00 AM " tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 00 : European Open Pool Championships - Day 1 (Table 2) | Hotel Esperanto, Fulda, Germany | pool | Tue 08 Aug 8:00:00 AM 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400459261
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 01 : European Open Pool Championships - Day 1 (Table 3) | Hotel Esperanto, Fulda, Germany | pool | Tue 08 Aug 8:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 01 : European Open Pool Championships - Day 1 (Table 3) | Hotel Esperanto, Fulda, Germany | pool | Tue 08 Aug 8:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2442
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 02 : BetVictor European Masters Qualifiers - Day 5 - Table 1 | Morningside Arena, Leicester | snooker | Sat 29 Jul 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 02 : BetVictor European Masters Qualifiers - Day 5 - Table 1 | Morningside Arena, Leicester | snooker | Sat 29 Jul 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2441
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 03 : BetVictor European Masters Qualifiers - Day 5 - Table 2 | Morningside Arena, Leicester | snooker | Sat 29 Jul 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 03 : BetVictor European Masters Qualifiers - Day 5 - Table 2 | Morningside Arena, Leicester | snooker | Sat 29 Jul 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2440
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 04 : World Championship Qualifiers - Day 5 Table 2 | English Institute of Sport, Sheffield | snooker | Fri 07 Apr 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 04 : World Championship Qualifiers - Day 5 Table 2 | English Institute of Sport, Sheffield | snooker | Fri 07 Apr 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2439
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 05 : World Championship Qualifiers - Day 5 Table 1 | English Institute of Sport, Sheffield | snooker | Fri 07 Apr 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 05 : World Championship Qualifiers - Day 5 Table 1 | English Institute of Sport, Sheffield | snooker | Fri 07 Apr 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2438
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 06 : World Championship Qualifiers - Day 6 Table 2 | English Institute of Sport, Sheffield | snooker | Sat 08 Apr 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 06 : World Championship Qualifiers - Day 6 Table 2 | English Institute of Sport, Sheffield | snooker | Sat 08 Apr 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2437
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 07 : World Championship Qualifiers - Day 6 Table 1 | English Institute of Sport, Sheffield | snooker | Sat 08 Apr 9:00:00 AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 07 : World Championship Qualifiers - Day 6 Table 1 | English Institute of Sport, Sheffield | snooker | Sat 08 Apr 9:00:00 AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/2436
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 08: WST Classic - Day 5 (Table 2) Mon 20th 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 08: WST Classic - Day 5 (Table 2) Mon 20th 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38733
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 09: WST Classic - Day 5 (Table 1) Mon 20th 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 09: WST Classic - Day 5 (Table 1) Mon 20th 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38734
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 10: WST Classic - Day 6 (Table 1) Tue 21st 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 10: WST Classic - Day 6 (Table 1) Tue 21st 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38735
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 11: WST Classic - Day 6 (Table 2) Tue 21st 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 11: WST Classic - Day 6 (Table 2) Tue 21st 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38736
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 12: WST Classic - Day 7 (Table 2) Wed 22nd 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 12: WST Classic - Day 7 (Table 2) Wed 22nd 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38737
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 13: WST Classic - Day 7 (Table 1) Wed 22nd 11:00AM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 13: WST Classic - Day 7 (Table 1) Wed 22nd 11:00AM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38738
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 14: Tour Championship - Day 1 Mon 27th 2:00PM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 14: Tour Championship - Day 1 Mon 27th 2:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38739
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 15: Tour Championship - Day 2 Tue 28th 2:00PM" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 15: Tour Championship - Day 2 Tue 28th 2:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/38740
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 16:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 16:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30436
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 17:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 17:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30435
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 18:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 18:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30434
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 19:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 19:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30433
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 20:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 20:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30432
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 21:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 21:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30431
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 22:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 22:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30430
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 23:" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 23:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30429
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MATCHROOM EVENTS 24" tvg-logo="https://lo1.in/ppvs/MATCHROOM.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MATCHROOM EVENTS 24
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/30428
+#EXTINF:-1 tvg-id="" tvg-name="|AF| SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://logo.ottc.pro:8080/logos/AF.SPORTS/SUPERSPORT.PREMIER.LEAGUE.HD.png" group-title="AF| SPORT",|AF| SUPERSPORT PREMIER LEAGUE HD
+http://line.ottcst.com:80/qliUCkMpXKwxCQb/VIT3KDDTZY/2630
+#EXTINF:-1 tvg-id="" tvg-name="??? SETANTA EVENT RU-KA ???" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",??? SETANTA EVENT RU-KA ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31720
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 1 | Sheffield united - everton 02th 12:30pm/Brest - rennes 02th 4:00pm/Al fateh - al ahli 02th 7:00pm/Rangers - celtic 03th 12:00pm/Mallorca - athletic bilbao 03th 3:15pm/Lyon - paris sg 03th 7:45pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 1 | Sheffield united - everton 02th 12:30pm/Brest - rennes 02th 4:00pm/Al fateh - al ahli 02th 7:00pm/Rangers - celtic 03th 12:00pm/Mallorca - athletic bilbao 03th 3:15pm/Lyon - paris sg 03th 7:45pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31690
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 2 | Sunderland - southampton 02th 12:30pm/Ufc fight night: gane vs. Spivac - prelims 02th 5:00pm/Girona - las palmas 03th 1:00pm/Nice - strasbourg 03th 4:05pm/Empoli - juventus 03th 7:45pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 2 | Sunderland - southampton 02th 12:30pm/Ufc fight night: gane vs. Spivac - prelims 02th 5:00pm/Girona - las palmas 03th 1:00pm/Nice - strasbourg 03th 4:05pm/Empoli - juventus 03th 7:45pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31691
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 3 | Real sociedad - granada 02th 1:00pm/Alaves - valencia 02th 5:30pm/Sittard - ajax 03th 1:30pm/Union berlin - leipzig 03th 4:30pm/Osasuna - barcelona 03th 8:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 3 | Real sociedad - granada 02th 1:00pm/Alaves - valencia 02th 5:30pm/Sittard - ajax 03th 1:30pm/Union berlin - leipzig 03th 4:30pm/Osasuna - barcelona 03th 8:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31692
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 4 | Bayer leverkusen - darmstadt 02th 2:30pm/Borussia monchengladbach - bayern munich 02th 5:30pm/Crystal palace - wolves 03th 2:00pm/Atletico madrid - sevilla 03th 5:30pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 4 | Bayer leverkusen - darmstadt 02th 2:30pm/Borussia monchengladbach - bayern munich 02th 5:30pm/Crystal palace - wolves 03th 2:00pm/Atletico madrid - sevilla 03th 5:30pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31693
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 5 | Augsburg - bochum 02th 2:30pm/Brighton - newcastle 02th 5:30pm/Liverpool - aston villa 03th 2:00pm/Inter - fiorentina 03th 5:30pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 5 | Augsburg - bochum 02th 2:30pm/Brighton - newcastle 02th 5:30pm/Liverpool - aston villa 03th 2:00pm/Inter - fiorentina 03th 5:30pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31694
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 6 | Hoffenheim - wolfsburg 02th 2:30pm/Udinese - frosinone 02th 5:30pm/Italian grand prix - race 03th 2:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 6 | Hoffenheim - wolfsburg 02th 2:30pm/Udinese - frosinone 02th 5:30pm/Italian grand prix - race 03th 2:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31695
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 7 | Werder bremen - mainz 02th 2:30pm/Bologna - cagliari 02th 5:30pm/Eintracht frankfurt - koln 03th 2:30pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 7 | Werder bremen - mainz 02th 2:30pm/Bologna - cagliari 02th 5:30pm/Eintracht frankfurt - koln 03th 2:30pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31696
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 8 | Stuttgart - freiburg 02th 2:30pm/Al hazem - al nassr 02th 7:00pm/Vitesse - az alkmaar 03th 3:45pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 8 | Stuttgart - freiburg 02th 2:30pm/Al hazem - al nassr 02th 7:00pm/Vitesse - az alkmaar 03th 3:45pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31697
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 9 | Brentford - bournemouth 02th 3:00pm/Napoli - lazio 02th 7:45pm/Arsenal - manchester united 03th 4:30pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 9 | Brentford - bournemouth 02th 3:00pm/Napoli - lazio 02th 7:45pm/Arsenal - manchester united 03th 4:30pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31698
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 10 | Burnley - tottenham hotspur 02th 3:00pm/Atalanta - monza 02th 7:45pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 10 | Burnley - tottenham hotspur 02th 3:00pm/Atalanta - monza 02th 7:45pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31699
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 11 | Chelsea - nottingham 02th 3:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 11 | Chelsea - nottingham 02th 3:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31700
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 12 | Manchester city - fulham 02th 3:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 12 | Manchester city - fulham 02th 3:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31701
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 13 | Italian grand prix - qualifying 02th 3:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 13 | Italian grand prix - qualifying 02th 3:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31702
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 14 | Real madrid - getafe 02th 3:15pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 14 | Real madrid - getafe 02th 3:15pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31703
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 15 : Southampton - fulham 13th 3:00pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 15 : Southampton - fulham 13th 3:00pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31704
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 16 : Athletic bilbao - real sociedad 16th 3:15pm" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 16 : Athletic bilbao - real sociedad 16th 3:15pm
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31705
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 17 : " tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 17 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31706
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 18 :" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 18 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31707
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 19" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 19
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31708
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 20" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 20
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31709
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 21" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 21
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31710
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 22" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 22
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31711
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 23" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 23
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31712
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 24" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 24
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31713
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 25" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 25
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31714
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 26" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 26
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31715
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 27" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 27
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31716
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 28" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 28
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31717
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 29" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 29
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31718
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SETANTA EVENT 30" tvg-logo="https://lo1.in/uk/setan.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SETANTA EVENT 30
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31719
+#EXTINF:-1 tvg-id="" tvg-name="??? PPV WRC ???" tvg-logo="https://lo1.in/uk/wrc.png" group-title="VIP | PPV-SPORT EVENTS",??? PPV WRC ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31725
+#EXTINF:-1 tvg-id="" tvg-name="PPV| WRC 01 :" tvg-logo="https://lo1.in/uk/wrc.png" group-title="VIP | PPV-SPORT EVENTS",PPV| WRC 01 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31724
+#EXTINF:-1 tvg-id="" tvg-name="PPV| WRC 02 :" tvg-logo="https://lo1.in/uk/wrc.png" group-title="VIP | PPV-SPORT EVENTS",PPV| WRC 02 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31723
+#EXTINF:-1 tvg-id="" tvg-name="PPV| WRC 03 :" tvg-logo="https://lo1.in/uk/wrc.png" group-title="VIP | PPV-SPORT EVENTS",PPV| WRC 03 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31722
+#EXTINF:-1 tvg-id="" tvg-name="PPV| WRC 04 :" tvg-logo="https://lo1.in/uk/wrc.png" group-title="VIP | PPV-SPORT EVENTS",PPV| WRC 04 :
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/31721
+#EXTINF:-1 tvg-id="" tvg-name="??? MOLA EVENT ???" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",??? MOLA EVENT ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9847
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 1 : DP World Tour - Omega European Masters - Round 3 02th 11:25/RKC Waalwijk vs PSV 02th 18:50" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 1 : DP World Tour - Omega European Masters - Round 3 02th 11:25/RKC Waalwijk vs PSV 02th 18:50
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9834
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 2 : UFC Fight Night: Gane vs Spivac 02th 17:15" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 2 : UFC Fight Night: Gane vs Spivac 02th 17:15
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9835
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 3 : Palermo vs FeralpiSalo 02th 17:20/LPGA - Portland Classic - Round 3 02th 22:55" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 3 : Palermo vs FeralpiSalo 02th 17:20/LPGA - Portland Classic - Round 3 02th 22:55
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9836
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 4 : Boxxer : Liam Smith vs Chris Eubank Jr 2 02th 17:55" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 4 : Boxxer : Liam Smith vs Chris Eubank Jr 2 02th 17:55
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9837
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 5 : Korn Ferry Tour - Albertsons Boise Open - Round 1 25th 02:25" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 5 : Korn Ferry Tour - Albertsons Boise Open - Round 1 25th 02:25
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9838
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 6 : PGA TOUR - BMW Championship - Round 3 19th 17:55" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 6 : PGA TOUR - BMW Championship - Round 3 19th 17:55
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9839
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 7 : Red Bull Bragantino vs America MG start:2023-08-11 00:50:00 stop:2023-08-11 05:10:00" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 7 : Red Bull Bragantino vs America MG start:2023-08-11 00:50:00 stop:2023-08-11 05:10:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9840
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 8 : Metropolitanos vs Independiente Medellin 08th 22:50" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 8 : Metropolitanos vs Independiente Medellin 08th 22:50
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9841
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 9 : Palmeiras vs Barcelona 08th 01:20" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 9 : Palmeiras vs Barcelona 08th 01:20
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9842
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 10 : The Strongest vs Sporting Cristal 08th 02:50" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 10 : The Strongest vs Sporting Cristal 08th 02:50
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9843
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 11 : Emelec vs Guarani 08th 02:50" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 11 : Emelec vs Guarani 08th 02:50
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9844
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 12 : Bayern Muenchen vs Schalke 04 13th 14:20" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 12 : Bayern Muenchen vs Schalke 04 13th 14:20
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9845
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MOLA EVENT 13 : Deportivo Pereira vs Monagas 05th 02:50" tvg-logo="https://lo1.in/ppvs/mla.png" group-title="VIP | PPV-SPORT EVENTS",PPV| MOLA EVENT 13 : Deportivo Pereira vs Monagas 05th 02:50
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9846
+#EXTINF:-1 tvg-id="" tvg-name="??? PPV| EUROSPORT XTRA ???" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",??? PPV| EUROSPORT XTRA ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400496062
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 1 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 1 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63867
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 2 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 2 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63868
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 3 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 3 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63869
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 4 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 4 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63870
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 5 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 5 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63871
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 6 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 6 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63872
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 7 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 7 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63873
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 8 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 8 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63874
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 9 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 9 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63875
+#EXTINF:-1 tvg-id="" tvg-name="PPV| EUROSPORT XTRA 10 FHD" tvg-logo="https://lo1.in/ppvs/euxtr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| EUROSPORT XTRA 10 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/63876
+#EXTINF:-1 tvg-id="" tvg-name="??? |PPV| NI PREMIERSHIP FIXTURES ???" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",??? |PPV| NI PREMIERSHIP FIXTURES ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400498810
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 00 : Ballymena United vs Crusaders 19:45" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 00 : Ballymena United vs Crusaders 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6586
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 01 : Glentoran vs Larne 19:45" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 01 : Glentoran vs Larne 19:45
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6585
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 02 : Newry City vs Glenavon Saturday 15:00" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 02 : Newry City vs Glenavon Saturday 15:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6584
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 03 : Portadown vs Carrick Rangers Saturday 15:00" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 03 : Portadown vs Carrick Rangers Saturday 15:00
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6583
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 04 : Glentoran FC vs Portadown FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 04 : Glentoran FC vs Portadown FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6582
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 05 : Newry City FC vs Cliftonville FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 05 : Newry City FC vs Cliftonville FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6581
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 06 : Crusaders FC vs Carrick Rangers FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 06 : Crusaders FC vs Carrick Rangers FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6580
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 07 : Coleraine FC vs Larne FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 07 : Coleraine FC vs Larne FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6579
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 08 : Newry City FC vs Cliftonville FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 08 : Newry City FC vs Cliftonville FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6578
+#EXTINF:-1 tvg-id="" tvg-name="PPV| NI PREMIERSHIP FIXTURES 09 : Crusaders FC vs Carrick Rangers FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM" tvg-logo="https://lo1.in/ppvs/NIPF.png" group-title="VIP | PPV-SPORT EVENTS",PPV| NI PREMIERSHIP FIXTURES 09 : Crusaders FC vs Carrick Rangers FC - Northern Ireland Premiership | scheduled | Sat 25th 5:00PM
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/6577
+#EXTINF:-1 tvg-id="" tvg-name="???PPV| HUB PREMIER ???" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",???PPV| HUB PREMIER ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400450257
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 1 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 1 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9061
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 2 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 2 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9060
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 3 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 3 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9059
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 4 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 4 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9058
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 5 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 5 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9057
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 6 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 6 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9056
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 7 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 7 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9055
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 8 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 8 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9054
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 9 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 9 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9053
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 10 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 10 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9052
+#EXTINF:-1 tvg-id="" tvg-name="PPV| HUB PREMIER 11 FHD" tvg-logo="https://lo1.in/uk/hubpr.png" group-title="VIP | PPV-SPORT EVENTS",PPV| HUB PREMIER 11 FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/9051
+#EXTINF:-1 tvg-id="" tvg-name="???PPV| POKER ???" tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",???PPV| POKER ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400426518
+#EXTINF:-1 tvg-id="" tvg-name="PPV| POKER 01 : " tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",PPV| POKER 01 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/120415
+#EXTINF:-1 tvg-id="" tvg-name="PPV| POKER 02 : " tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",PPV| POKER 02 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/120414
+#EXTINF:-1 tvg-id="" tvg-name="PPV| POKER 03 : " tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",PPV| POKER 03 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/120413
+#EXTINF:-1 tvg-id="" tvg-name="PPV| POKER 04 : " tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",PPV| POKER 04 : 
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/120412
+#EXTINF:-1 tvg-id="" tvg-name="PPV| POKER 05:" tvg-logo="https://lo1.in/iran/po.png" group-title="VIP | PPV-SPORT EVENTS",PPV| POKER 05:
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/120411
+#EXTINF:-1 tvg-id="" tvg-name="??? PPV TENNIS TV ???" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",??? PPV TENNIS TV ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400510600
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 01" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 01
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153333
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 02" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 02
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153334
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 03" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 03
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153335
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 04" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 04
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153336
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 05" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 05
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153337
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 06" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 06
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153338
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 07" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 07
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153339
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 08" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 08
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153340
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 09" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 09
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153341
+#EXTINF:-1 tvg-id="" tvg-name="PPV| TENNIS TV 10" tvg-logo="https://lo1.in/ppvs/tnn.png" group-title="VIP | PPV-SPORT EVENTS",PPV| TENNIS TV 10
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153342
+#EXTINF:-1 tvg-id="" tvg-name="??? PPV SBO ???" tvg-logo="https://lo1.in/ppvs/SBO.png" group-title="VIP | PPV-SPORT EVENTS",??? PPV SBO ???
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/400510598
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SBO 1 : Eubank vs Smith FHD" tvg-logo="https://lo1.in/ppvs/SBO.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SBO 1 : Eubank vs Smith FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153313
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SBO 2 : Eubank vs Smith HD" tvg-logo="https://lo1.in/ppvs/SBO.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SBO 2 : Eubank vs Smith HD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153312
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SBO 3 : Eubank vs Smith SD" tvg-logo="https://lo1.in/ppvs/SBO.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SBO 3 : Eubank vs Smith SD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153311
+#EXTINF:-1 tvg-id="" tvg-name="PPV| SBO 4 : Eubank vs Smith HEVC FHD" tvg-logo="https://lo1.in/ppvs/SBO.png" group-title="VIP | PPV-SPORT EVENTS",PPV| SBO 4 : Eubank vs Smith HEVC FHD
+http://vxnshca.mpowerr.xyz:80/4939823153/1499787732/153310
